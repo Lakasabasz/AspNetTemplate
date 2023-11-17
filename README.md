@@ -8,3 +8,4 @@ Api template for Asp.Net Core (.net 8)
 - Serilog
 - EntityFramework
 - Autofac
+
